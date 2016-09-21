@@ -1,4 +1,4 @@
-# APSys-16-Paper
+# Don't Forget Your Electricity Bills! An Empirical Study of Characterizing Energy Consumption of 3D Printers
 3D printing is an emerging technique in product manufacturing. Its applications have been expanding vastly in homebased production. 
 Compared to traditional manufacturing techniques, such as Computerized Numeric Control (CNC) machine tools, it is believed that 3D 
 printing is more cost-effective in fabricating personalized products. The product cost estimation in 3D printing mainly takes material 
